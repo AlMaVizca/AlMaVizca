@@ -1,5 +1,29 @@
 #+Title: Please allow me to introduce myself
 
+#+BEGIN_html
+<i>Please allow me to introduce myself</br>
+I'm a man developing my wealth and taste,</br>
+it's an endless process, of keep growing</br>
+that I don't intend to waste</br>
+I've been around crafting my systems</br>
+with Emacs, and something else...</br></i>
+</br>
+#+END_html
+
+ok, enough, I'll be linking here some articles to describe my toolbox, and if
+you find anything that could be done better, I would like to read your thoughts.
+
+I'm an Emacs enthusiast, and I'm always looking for ways to make my work to flow.
+Before to start, let's get a step back to gain perspective, working on IT
+demands a version control system to keep track and develop the project at hand.
+Ideally the projects comply with [[https://12factor.net/][The Twelve-Factor App]], and anyone can use their
+favorite IDE to test, run, develop, deploy or any other thing that might come to
+mind. So basically, as your IDE opens a project, it knows the required packages
+to give it a try.
+Now, If you are wondering which accesories I've added to my emacs, please
+continue reading [[https://github.com/AlMaVizca/dotfiles/tree/main/.emacs.d][here]].
+
+
 #+begin_html
   <a href="https://almavizca.xyz">
   <img alt="Personal website" src="https://img.shields.io/website?url=https%3A%2F%2Falmavizca.xyz&style=flat-square&logo=firefox-browser&labelColor=114B5F&logoColor=6CB14F&color=6CB14F">
